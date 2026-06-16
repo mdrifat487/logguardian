@@ -6,7 +6,7 @@ The project includes cross‑compiled binaries, automated GitHub Actions builds,
 
 ---
 
-## 🩺 Motivation
+##  Motivation
 
 Modern systems generate large volumes of logs.  
 Manually inspecting these files is slow, error‑prone, and difficult to automate.
@@ -21,7 +21,7 @@ LogGuardian was developed to:
 
 ---
 
-## ✨ Features
+##  Features
 
 - Fast log scanning using buffered streaming  
 - Categorizes messages (Error, Warning, Info)  
@@ -35,7 +35,7 @@ LogGuardian was developed to:
 
 ---
 
-## 🚀 Command-Line Usage
+##  Command-Line Usage
 
 ### Scan a log file
 
